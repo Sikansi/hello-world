@@ -1,2 +1,6 @@
 # hello-world
-First repository with the purpose of learning.
+
+Hello!
+
+This is a test file for me to learn how to create repositorys and work on them.
+Thanks!
